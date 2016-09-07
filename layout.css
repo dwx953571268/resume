@@ -1,8 +1,8 @@
 /*
 * @Author: root
 * @Date:   2016-03-06 20:49:24
-* @Last Modified by:   root
-* @Last Modified time: 2016-03-07 15:30:56
+* @Last Modified by:   v4if
+* @Last Modified time: 2016-09-07 11:36:45
 */
 
 body {
@@ -10,9 +10,8 @@ body {
 	padding: 0;
 	margin: auto;
 	text-align: left;
-	font: 13px/1.231 arial,helvetica,clean,sans-serif;
-	font-family: Georgia;
-	color: #444;
+	font: 14px/1.5 'Microsoft YaHei',arial,tahoma,\5b8b\4f53,sans-serif;
+	color: #333333;
 }
 
 h1,h2,h3,h4,h5,h6 {
